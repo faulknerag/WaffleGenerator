@@ -3,6 +3,10 @@ WaffleGenerator is a console application for generating and playing unlimited ga
 
 ![Waffle Gameplay](Images/WaffleGenerator.png?raw=true)
 
+Solved puzzle:
+
+![Solved Puzzle](Images/Solved.png?raw=true)
+
 # Game Rules:
   
 As with the original game hosted on https://wafflegame.net/, the goal is to swap two tiles at a time to reveal all 6 solution words. You can use up to 15 moves to complete the puzzle, though every Waffle can be solved in exactly 10 moves.
